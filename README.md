@@ -1,2 +1,3 @@
 # linkedinBot_Selenium
-A python based LinkedIn bot using selenium. Currently it can message people. (Upgrades are in progress)
+Python-based LinkedIn bot driven by Selenium. Currently the bot can collectively message multiple people that the user is connected. 
+The bot is still a work in progress and in future can selectively message multiple people and connect to other people
